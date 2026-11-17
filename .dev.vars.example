@@ -1,0 +1,4 @@
+# Copy to .dev.vars and replace all values. Never commit .dev.vars.
+APP_USERNAME=your-username
+APP_PASSWORD=replace-with-a-long-unique-password
+AUTH_SECRET=replace-with-at-least-32-random-characters
